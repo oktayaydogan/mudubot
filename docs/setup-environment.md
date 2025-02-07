@@ -215,13 +215,3 @@ Mudu Bot geliştirme ortamı başarıyla hazırlanmıştır. Aşağıdaki bileş
 | **Prolog**        | Çalışıyor                  | Çalışıyor                |
 | **Whisper**       | Çalışıyor                  | Çalışıyor                |
 | **OpenCV + YOLO** | Çalışıyor                  | Çalışıyor                |
-
-### Sonraki Adımlar
-
-- ROS 2 Node’larının geliştirilmesi
-- LLM ve Prolog entegrasyonunun sağlanması
-- Gerçek zamanlı veri akışı ile testlerin yapılması
-
-Bu kılavuz, Mudu Bot'un geliştirme ortamının etkin bir şekilde yapılandırılmasını sağlamak için detaylandırılmıştır. Çalışma sürecinde herhangi bir hata ile karşılaşırsanız, geliştirici belgelerini incelemeniz önerilir.
-
----
