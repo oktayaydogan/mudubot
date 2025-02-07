@@ -4,7 +4,6 @@
 ## 1. Giriş
 
 Bu kılavuz, Mudu Bot'un geliştirme ortamının hazırlanması için gerekli adımları ve bileşenleri içermektedir. Yazılım geliştiriciler, robotik mühendisleri ve yapay zeka araştırmacıları için hazırlanmış olup, sistem gereksinimleri, kurulum adımları ve temel test prosedürlerini kapsamaktadır. Geliştirme ortamı, **Docker, ROS 2, Gazebo, Llama.cpp, Prolog, Whisper, OpenCV ve YOLO** gibi temel bileşenleri içermektedir.
-
 Bu belge, farklı kullanım senaryoları için uygun olan sistem gereksinimlerini, kurulum adımlarını ve temel test prosedürlerini ayrıntılı olarak sunmaktadır.
 ---
 
